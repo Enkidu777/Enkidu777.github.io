@@ -3,7 +3,7 @@ title: Alpaca Diary
 SEOTitle: 羊驼日记 | Alpaca Diary
 header-img: img/Apricot.jpg
 email: dreamstate@foxmail.com
-description: "Every failure is leading towards success."
+description: "请你更积极地爱这个俗世，恨这个俗世，一生都沉湎其中吧，因为神最爱这样的人了。"
 keyword: "刘泽坤, 羊驼日记, 阿坤的博客, Alpaca Diary, 刘旭钊"
 url: "Enkidu777.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -18,11 +18,11 @@ sidebar-avatar: /img/Selfie.jpg      # use absolute URL, seeing it's used in bot
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+weibo_username:     Michael_Maxwell
+instagram:          michael.maxwell.737001
+github_username:    Enkidu777
+#facebook_username:  baiying.qiu.7
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
