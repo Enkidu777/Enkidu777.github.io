@@ -1,18 +1,18 @@
 # Site settings
-title: 羊驼日记
+title: Alpaca Diary
 SEOTitle: 羊驼日记 | Alpaca Diary
 header-img: img/Apricot.jpg
-email: qiubaiying@gmail.com
+email: dreamstate@foxmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "刘泽坤, 羊驼日记, 阿坤的博客, Alpaca Diary, 刘旭钊"
+url: "Enkidu777.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/enkidu777/enkidu777.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "那些昙花一现的灿烂<br>是爆炸的烟火"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Selfie.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
